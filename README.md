@@ -65,5 +65,6 @@ a1_t4/
 ### Screenshot Comparison
 Original Screenshot | Our Implementation
 :---: | :---:
-![Original WhatsApp Status Screen](https://github.com/user-attachments/assets/7ade3d20-5412-4d3d-801c-832f21bfb708) | ![Our Flutter Implementation](https://github.com/user-attachments/assets/318b4c69-ae5d-407d-a8cc-5796b2939197)
+![Original WhatsApp Status Screen](https://github.com/user-attachments/assets/7ade3d20-5412-4d3d-801c-832f21bfb708) | ![Our Flutter Implementation](https://github.com/user-attachments/assets/27c8b94c-4627-49d2-94f9-15468840ad55)
+
 
