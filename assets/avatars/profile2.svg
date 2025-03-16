@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="100" fill="#2196F3" opacity="0.2"/>
+  
+  <!-- Mountains background -->
+  <polygon points="0,150 50,70 100,120 150,50 200,150" fill="#2196F3" opacity="0.4"/>
+  
+  <!-- Person silhouette -->
+  <circle cx="100" cy="80" r="30" fill="#37474F"/>
+  <path d="M50 170 C50 120 150 120 150 170" fill="#37474F"/>
+  
+  <!-- Text hint -->
+  <text x="100" y="60" font-family="Arial" font-size="12" fill="#333" text-anchor="middle">W.I.</text>
+</svg>

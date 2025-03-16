@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="100" fill="#795548" opacity="0.2"/>
+  
+  <!-- Group photo representation -->
+  <rect x="30" y="50" width="140" height="90" rx="5" ry="5" fill="#FFECB3"/>
+  
+  <!-- People silhouettes -->
+  <circle cx="70" cy="80" r="15" fill="#5D4037"/>
+  <path d="M55 130 C55 105 85 105 85 130" fill="#5D4037"/>
+  
+  <circle cx="100" cy="75" r="15" fill="#5D4037"/>
+  <path d="M85 130 C85 105 115 105 115 130" fill="#5D4037"/>
+  
+  <circle cx="130" cy="80" r="15" fill="#5D4037"/>
+  <path d="M115 130 C115 105 145 105 145 130" fill="#5D4037"/>
+  
+  <!-- Text hint -->
+  <text x="100" y="160" font-family="Arial" font-size="12" fill="#333" text-anchor="middle">S.S.H.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="100" fill="#000000" opacity="0.1"/>
+  
+  <!-- Simple black background -->
+  <circle cx="100" cy="100" r="90" fill="#212121"/>
+  
+  <!-- Person silhouette -->
+  <circle cx="100" cy="80" r="30" fill="#EEEEEE"/>
+  <path d="M50 170 C50 120 150 120 150 170" fill="#EEEEEE"/>
+  
+  <!-- Text hint -->
+  <text x="100" y="60" font-family="Arial" font-size="12" fill="#FFFFFF" text-anchor="middle">S.A.R.</text>
+</svg>

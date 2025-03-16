@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="100" fill="#4CAF50" opacity="0.2"/>
+  
+  <!-- Nature elements (simplified) -->
+  <rect x="0" y="130" width="200" height="70" fill="#4CAF50" opacity="0.5"/>
+  <circle cx="160" cy="40" r="20" fill="#FFC107"/>
+  
+  <!-- Person silhouette -->
+  <circle cx="100" cy="80" r="30" fill="#455A64"/>
+  <path d="M50 170 C50 120 150 120 150 170" fill="#455A64"/>
+</svg>
