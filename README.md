@@ -62,20 +62,8 @@ a1_t4/
 3. Run `flutter pub get` to install dependencies
 4. Run `flutter run` to launch the application
 
-### Judging Criteria Focus
-In our implementation, we focused on the assignment's judging criteria:
-- **Eye for detail**: Accurately matched all visual elements from the screenshot
-- **Accuracy**: Correctly implemented all UI components and their interactions
-- **Code structure**: Organized code in a logical, maintainable manner
-- **Reusable widgets**: Created modular widgets that could be reused in other screens
-- **Responsiveness**: Ensured the UI adapts to different screen sizes
-
 ### Screenshot Comparison
 Original Screenshot | Our Implementation
 :---: | :---:
-[Original WhatsApp Status Screen]
-![WhatsApp Image 2025-03-16 at 21 31 51_571806c1](https://github.com/user-attachments/assets/7ade3d20-5412-4d3d-801c-832f21bfb708)
-
-[Our Flutter Implementation]
-![image](https://github.com/user-attachments/assets/318b4c69-ae5d-407d-a8cc-5796b2939197)
+![Original WhatsApp Status Screen](https://github.com/user-attachments/assets/7ade3d20-5412-4d3d-801c-832f21bfb708) | ![Our Flutter Implementation](https://github.com/user-attachments/assets/318b4c69-ae5d-407d-a8cc-5796b2939197)
 
